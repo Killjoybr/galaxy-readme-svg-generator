@@ -36,11 +36,12 @@ galaxy_arms:
     items:
       - "Node.js"
       - "Django"
+      - "PHP"
       - "PostgreSQL"
+      - "MySQL"
   - name: "Frontend"
     color: "synapse_cyan"
     items:
-      - "CSS"
       - "Bootstrap"
       - "Angular"
   - name: "DevOps"
